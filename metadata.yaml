@@ -1,0 +1,23 @@
+_repo: Beautiful-Europe--Belgium_4242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, Joseph E. (Joseph Ernest)
+    alias: Morris, J. E. (Joseph Ernest)
+    gutenberg_agent_id: '1412'
+    url: http://www.gutenberg.org/2009/agents/1412
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Belgium -- Description and travel'
+- GITenberg
+title: 'Beautiful Europe: Belgium'
+url: http://www.gutenberg.org/ebooks/4242
